@@ -1,51 +1,103 @@
-# Hi there, I’m Asu 👋
+Hi, I’m Asu Kaur 👋
+Full‑stack developer crafting secure, accessible, and performant web apps. I build end‑to‑end solutions with React, Node.js, and Python—shipped with robust APIs, clean architecture, and a strong focus on security and UX.
 
-I'm a passionate **Full-Stack Developer & Tech Enthusiast** with 3+ years of hands-on experience building web and mobile apps using the MERN stack and React Native. Currently diving deep into **software security** and **cloud technologies** while finishing my MSc in Advanced Computer Science at the University of Manchester.
+Location: Manchester, UK
 
----
+Portfolio: https://asukaur.com/
 
-### 🚀 What I do
-- Build scalable and secure web & mobile applications.
-- Lead and mentor development teams for efficient, empathetic delivery.
-- Explore and contribute to open-source projects.
-- Learn and implement cutting-edge security practices.
-- Advocate for continuous learning and growth.
+Email: iamasukaur@gmail.com
 
----
+LinkedIn: https://linkedin.com/in/asukaur
 
-### 💡 Skills & Tools
-- **Languages:** JavaScript, TypeScript, Python, Java
-- **Frameworks:** React, React Native, Node.js, Express
-- **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Jest, ESLint, JetBrains IDEs
-- **Cloud:** AWS, Azure, DigitalOcean
-- **Security:** Application Security, Secure Architecture Design
+🧰 Tech Stack
+Frontend: React, Next.js, TypeScript, TailwindCSS, React Native, Redux Toolkit, MUI, Bootstrap, Angular
 
----
+Backend: Node.js, Express.js, REST APIs, Flask, .NET
 
-### 🌍 About Me
-- Former Deputy Head Girl with a knack for leadership and event organizing.
-- Avid basketball player and swimmer 🏀🏊‍♀️.
-- Traveler who loves exploring new cultures and pushing comfort zones.
-- Always seeking to pivot and grow — both personally and professionally.
+Databases: PostgreSQL, MongoDB, MySQL, Firebase
 
----
+Security: Secure SDLC, JWT & OAuth2, RBAC/IAM, HTTPS/TLS, CORS, CSP, Threat Modeling, OWASP Top 10
 
-### 📫 Let's connect
-- [LinkedIn](https://www.linkedin.com/in/asu-kaur/)
-- [Portfolio](https://your-portfolio-url.com)
-- [Instagram](https://instagram.com/pivotandexplore)
+Tooling: Git/GitHub, Postman, Jira, Notion, Figma, Chrome DevTools, Socket.io, Dialogflow, Discord.js
 
----
+Languages: JavaScript/TypeScript, Python, C#, Java, C, HTML5, CSS3/SCSS
 
-### 📊 GitHub Stats
+🚀 Highlights
+3+ years delivering full‑stack apps across the UK, Canada, Australia, and India
 
-![Asu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+Built 16+ production projects and 100+ REST APIs with validation, RBAC, and robust error handling
 
----
+Led 4 cross‑functional teams, aligning roadmaps with C‑level stakeholders and ensuring on‑time releases
 
-> "Growth is uncomfortable because you've never been here before. Embrace the discomfort."
+Designed 10+ PWAs with offline‑first strategies, caching, and service workers
 
----
+Accessibility‑first: WAI‑ARIA and OWASP‑aligned components, reusable UI libraries, and performance‑focused refactors
 
-Thanks for stopping by! Feel free to explore my repos, and don't hesitate to reach out. 😊
+Mentor & reviewer: guided 10+ junior engineers on quality, security, and performance
+
+💼 Experience
+Senior Full‑Stack Lead — Caarya (07/2022–12/2024)
+Led end‑to‑end delivery across 16+ projects, focusing on accessible, secure UIs and scalable APIs.
+
+Full‑Stack Engineer — Caarya (01/2022–07/2024)
+Built responsive UIs (React/Next/Tailwind/MUI), coordinated AWS pipelines, and shipped PWAs and secure APIs.
+
+Frontend Engineer — Caarya (04/2021–12/2021)
+Created reusable component libraries; improved legacy code for performance, accessibility, and security.
+
+🎓 Education
+MSc, Advanced Computer Science: Computer Security — University of Manchester (09/2024–09/2025)
+Bicentenary Global Futures Scholar. Focus on Software Security, Cryptographic Protocols, Risk Management, Network Security.
+
+B.Tech, Computer Science & Engineering — MAKAUT (08/2017–07/2021)
+Focus on Operating Systems, Network Security, Distributed Systems.
+
+🌱 Current Focus
+Secure‑by‑default patterns for full‑stack apps
+
+Scalable design systems and accessible component libraries
+
+Performance tuning: bundles, caching, and API latency
+
+Building polished PWAs with offline‑first UX
+
+🛡️ Tech I Love
+Frontend: Next.js, React, TypeScript, Tailwind, Radix/MUI
+
+Backend: Express, Flask, REST, WebSockets (Socket.io)
+
+Data: PostgreSQL, MongoDB, MySQL
+
+Infra & DX: Node, Firebase, PWA, CI/CD, Postman, GitHub Actions
+
+Security: JWT, OAuth2, RBAC, CSP, Threat Modeling, OWASP Top 10
+
+📊 Stats
+16+ shipped projects
+
+100+ production APIs
+
+10+ PWAs
+
+10+ engineers mentored
+
+🧩 Badges
+Languages: JavaScript · TypeScript · Python · C# · Java · C
+
+Frameworks: React · Next.js · Node.js · Express · Flask · .NET
+
+UI/UX: Tailwind · MUI · Bootstrap · Figma
+
+Data: PostgreSQL · MongoDB · MySQL · Firebase
+
+Misc: Redux Toolkit · Socket.io · Dialogflow · Discord.js · Axios · PWA
+
+🤝 Let’s Build
+I partner with teams to ship resilient APIs, accessible UIs, and production‑ready performance. Open to collaborating on open‑source, developer tooling, and security‑focused features.
+
+📫 Connect
+Portfolio: https://asukaur.com/
+
+Email: iamasukaur@gmail.com
+
+LinkedIn: https://linkedin.com/in/asukaur
