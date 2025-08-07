@@ -83,40 +83,19 @@ Focus on Operating Systems, Network Security, Distributed Systems.
 ## 🧩 Badges
 
 **Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
 
 **Frameworks:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)
 
 **UI/UX:**  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)  
-![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=material-ui&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)  ![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=material-ui&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 **Databases:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 **Misc:**  
-![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white)  
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)  
-![Dialogflow](https://img.shields.io/badge/-Dialogflow-4285F4?logo=dialogflow&logoColor=white)  
-![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?logo=discord&logoColor=white)  
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)  
-![PWA](https://img.shields.io/badge/-PWA-5A29E4?logo=progressive-web-apps&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white)  ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)  ![Dialogflow](https://img.shields.io/badge/-Dialogflow-4285F4?logo=dialogflow&logoColor=white)  ![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?logo=discord&logoColor=white)  ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)  ![PWA](https://img.shields.io/badge/-PWA-5A29E4?logo=progressive-web-apps&logoColor=white)
 
 ---
 
